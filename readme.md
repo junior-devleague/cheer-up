@@ -13,7 +13,7 @@ Activity for learning about while loops in python.
 Objective
 =========
 
-Your friend’s been having a bit of a hard time recently, so they’re a bit down in the dumps. You’ve decided that you’re going to help them out by making a playlist of music that they can listen to to cheer up! Use a while loop to create a list of music that you think your friend would like.
+Your friend’s been having a bit of a hard time recently, so they've been feeling down in the dumps. You’ve decided that you’re going to help them out by making a playlist of music that they can listen to to cheer up! Use a while loop to create a list of songs that you think your friend would like.
 
 Prerequisites
 =============
