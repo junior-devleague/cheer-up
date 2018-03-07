@@ -36,3 +36,13 @@ Desired Outcomes
 Tasks
 =====
 
+1.   Create a file music.py, or create a new REPL in repl.it
+2.   Create an empty list, and make a variable with a value of True
+3.   Create a while loop that will run **while** your variable is True
+4.   Ask the user for an input, store it as a variable, and use that to determine whether to exit the loop or to add a song.
+5.   **if** they're done adding songs, set your variable with a value of True to False, and the loop will end
+6.   ***else*** add their input to the empty list you created outside the loop
+
+### Choto Stretch Goal
+print out "Now playing <song name>" for each of the songs in your list, with the song replacing <song name>
+hint: this will require the use of an additional type of loop -- a for loop, as well as string concatenation (string a + string b) or variable interpolation (x = "string", "This is a %s" % x)
