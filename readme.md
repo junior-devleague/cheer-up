@@ -44,5 +44,5 @@ Tasks
 6.   ***else*** add their input to the empty list you created outside the loop
 
 ### Choto Stretch Goal
-print out "Now playing <song name>" for each of the songs in your list, with the song replacing <song name>
-hint: this will require the use of an additional type of loop -- a for loop, as well as string concatenation (string a + string b) or variable interpolation (x = "string", "This is a %s" % x)
+put the while loop in a function so that you can call on it at will, or import it into another python program!
+print out "Now playing <song name>" for each of the songs in your list
