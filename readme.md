@@ -44,8 +44,8 @@ Tasks
 6.   ***else*** add their input to the empty list you created outside the loop
 
 ### Choto Stretch Goals
--   print out "Now playing <song name>" for each of the songs in your list.
+-   make a function that will print out "Now playing <song name>" for each of the songs in your list.
 -   put the while loop in a function so that you can call on it at will, or import it into another python program!
 -   figure out a way to shuffle the list so that your friend won't have to listen to the same songs in the same order all the time.
--   make a function that will shuffle the list so that you don't have to do it manually!
+-   make the program shuffle the playlist everytime your friend listens to it so that you don't have to shuffle it for them!
 -   encrypt the list of songs so that nobody will know what kind of music you and your friend like to listen to.
